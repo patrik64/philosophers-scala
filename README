@@ -1,0 +1,17 @@
+philosophers application (scala version)
+
+to compile and run this application do the following:
+
+- install the scala compiler (on ubuntu linux e.g.  sudo apt-get install scala)
+- open a termnial window and navigate to this directory
+- type the following into the command line:
+
+	scalac philosophers.scala 
+	
+- once the compilation is over, you can run the application by typing:
+
+	scala philosophers.Philosophers
+
+
+
+
